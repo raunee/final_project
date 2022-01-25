@@ -37,3 +37,7 @@
 ## 7. 한계점
 ## 8. 참고 문헌
 ## 9. 프로젝트팀 멤버
+|Member|Connect|
+|:------:|:------:|
+|권라영|[![gmail_logo](https://user-images.githubusercontent.com/64716178/150918268-0bf92ae7-8237-4222-9a90-2650ff3050b6.png)](mailto:kraeyong@gmail.com) [![github_logo](https://user-images.githubusercontent.com/64716178/150918265-60193f86-b2fa-4f53-8137-2668f6d20a23.png)](https://github.com/lalaang)|
+|유현준|[![gmail_logo](https://user-images.githubusercontent.com/64716178/150918268-0bf92ae7-8237-4222-9a90-2650ff3050b6.png)](mailto:hjunyoo17@gmail.com) [![github_logo](https://user-images.githubusercontent.com/64716178/150918265-60193f86-b2fa-4f53-8137-2668f6d20a23.png)](https://github.com/hyunjuyo)|
