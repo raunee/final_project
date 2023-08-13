@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/64716178/150903164-22b55fb6-a694-418f-9e2b-d2db3edae71b.jpg)
+![image](https://user-images.githubusercontent.com/64716178/151357077-cda9e50f-d966-437f-aa04-ac3188c396d7.png)
 ***
 ## Contents
 1. [프로젝트 소개](#1-프로젝트-소개)
@@ -140,5 +140,5 @@ DBSCAN과 K-Means로 각각 음원을 클러스터링했다.
 ## 9. 프로젝트팀 멤버
 |Member|Connect|
 |:------:|:------:|
-|권라영|[![gmail_logo](https://user-images.githubusercontent.com/64716178/150918268-0bf92ae7-8237-4222-9a90-2650ff3050b6.png)](mailto:kraeyong@gmail.com) [![github_logo](https://user-images.githubusercontent.com/64716178/150918265-60193f86-b2fa-4f53-8137-2668f6d20a23.png)](https://github.com/raunee)|
+|권라영|[![gmail_logo](https://user-images.githubusercontent.com/64716178/150918268-0bf92ae7-8237-4222-9a90-2650ff3050b6.png)](mailto:kraeyong@gmail.com) [![github_logo](https://user-images.githubusercontent.com/64716178/150918265-60193f86-b2fa-4f53-8137-2668f6d20a23.png)](https://github.com/lalaang)|
 |유현준|[![gmail_logo](https://user-images.githubusercontent.com/64716178/150918268-0bf92ae7-8237-4222-9a90-2650ff3050b6.png)](mailto:hjunyoo17@gmail.com) [![github_logo](https://user-images.githubusercontent.com/64716178/150918265-60193f86-b2fa-4f53-8137-2668f6d20a23.png)](https://github.com/hyunjuyo)|
